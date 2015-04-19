@@ -1,0 +1,23 @@
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes.dex : \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\BuildConfig.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\CordovaApp.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$array.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$attr.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$color.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$dimen.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$drawable.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$id.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$layout.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$menu.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$raw.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$string.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R$xml.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\ionicframework\barcodescanner394586\R.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\dexedLibs\classes-fbf76bdf07ef4c58aee36d46970e2982.jar \
+D:\Company\Ionic\BarCodeScanner\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-ab8526ebddac605620effe266ab87881.jar \
